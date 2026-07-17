@@ -1,7 +1,7 @@
 # Interpretable machine learning & metrological uncertainty propagation in V-grooving-assisted sheet metal forming
 
 This repository contains the complete, reproduction-ready Python workflow for the predictive modeling, explainable AI (XAI) analysis, and ISO-GUM quantitative uncertainty propagation framework presented in the manuscript:
-> **"Interpretable machine learning for bending angle prediction in V-grooving-assisted sheet metal forming"**
+> **"Interpretable machine learning for bending angle prediction in V-grooving-assisted sheet metal forming"** Thầy Tuấn
 
 ---
 
